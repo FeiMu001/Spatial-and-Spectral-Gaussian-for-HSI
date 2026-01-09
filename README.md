@@ -1,2 +1,2 @@
-# Spatral-and-Spectral-Gaussian-for-HSI
+# Spatial-and-Spectral-Gaussian-for-HSI
 The code is coming soon.
